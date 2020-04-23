@@ -6,9 +6,11 @@ She came to tell me about her day, and to have some tea. She wasn’t dressed up
 
 As always, she would talk and I would write. Gunk would like you to know that she can write just fine. She says she _could_ let me talk so she could write. But she thinks my stories are boring. And not very up-grown. Besides, she doesn’t like the way the letters look at her after she has written them. That is why she is always frowning when she reads them. Reading is a very up-grown thing and she can read just fine too.
 
+- - -
+
 As you know, Gunk isn’t very large. In fact, she is rather small. She doesn’t live in a house. She has a burrow, at the bottom of the garden, in the corner against the shed, underneath a pile of rubbish.
 
-Gunk is always making things. Sometimes its clothes or something to decorate her burrow with. Sometimes it's tools or things to help her when she is out and about. But sometimes she makes something especially to play a prank on someone. Apparently, today was one of _those_ days.
+Gunk is always making things. Sometimes its clothes or something to decorate her burrow with. Sometimes it’s tools or things to help her when she is out and about. But sometimes she makes something especially to play a prank on someone. Apparently, today was one of _those_ days.
 
 That morning, she was in a very nasty mood. You see, Gunk was bored. She’d had breakfast and done all of her chores. She’d swept the burrow, re-organised the pile of rubbish, bitten the cat, cleaned up the yard, emptied the trash, had a nice neighbourly chat with the birds that visited the garden, cleaned out her wardrobe, scrubbed the stove.
 
@@ -18,11 +20,15 @@ So she went into the village, heading for the shops.
 
 Although she had no idea what she would do when she got there, she was already in a better mood. She ran all the way there, only briefly stopping to bite into the front-tire of the mailman’s bicycle. Just enough to make air hisssssss out.
 
+- - -
+
 Because it was still early, there weren’t many people about. Some of the shops were still closed. But the supermarket was open, so she headed there. The manager of the supermarket, Mr. Wallace always took great care of all the details in his shop. The cash-registers always had enough change, all the products were neatly placed on the shelves and none of _his_ shopping-cart wheels squeaked, thank you very much. He oiled all of the wheels personally, every Monday.
 
 So, first, Gunk had some fun playing with the shopping-carts. She would hop on to someone’s shopping-cart and make squeeky noises. Then, when the customer would look at the wheels of the cart whilst moving it forward and backward in an attempt to figure out which wheel was squeaking, she would be silent. But as soon as the customer shrugged and walked on, she would make squeeky noises again.
 
 After that, she would run from shopping-cart to shopping-cart, blocking one of the wheels. When the customer was pushing (or pulling) the cart almost sideways to get it to move, Gunk would quickly run to another wheel and block that instead. The customers didn’t like that at all. Some got very cross at their shopping-carts. Twice, Mr. Wallace had to run out of the store to fetch a customer a new cart from outside. Naturally, when he wheeled away the offending cart, he could not find anything wrong with it. The more puzzled he looked, the more fun Gunk had.
+
+- - -
 
 Now, for some reason, I was running low on chocolade cookies. So that morning I had also gone to the supermarket. Although I did have a shopping-cart, my cart behaved itself and I didn’t see Gunk anywhere. Of course, it could just be because you can’t see Gunk if she doesn’t want to be seen.
 
@@ -33,6 +39,8 @@ After having busied herself with swapping out the contents of the bags of salt w
 Next she decided she would like to swap the contents of people’s pockets. She felt that would give people a bit of a surprise, and who doesn’t like a nice surprise?
 
 This did mean that she needed to work on her swapping-things-around machine a bit. Obviously you can’t use the same parts to swap out paper and metal as you do when swapping out powder and potatoes. It must have been obvious because when I asked her about it, she just gave me a looked that clearly stated I had, once again, said something stupid.
+
+- - -
 
 After all her hard work and swapping things about, she had become tired and a bit peckish, so she had come straight to my house to tell me about her adventure. She looked up at me and smiled a big smile. She had finished her story, most of her tea and all of my chocolade cookies.
 
