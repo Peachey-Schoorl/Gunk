@@ -4,7 +4,7 @@ In a cute little garden, in a cute little town stood a cute little house with a 
 
 Well, sort of cute, if you don’t count the cute, not so little, razor-sharp fangs. Or her cute stare that could turn cold enough to freeze a grown-up where they stood at 50 feet (or 15 meters, which is the same).
 
-Her name is Gunk. You can ask her about it yourself when you see her. Last time I tried casually inquiring as to where her lovely name comes from, she bit me. I still have the scars. They tingle or itch whenever the weather is about to change. Really handy if you want to know if it is going to rain when you leave the house.
+Her name is Gunk. You can ask her about it yourself when you see her. When _I_ (casually) inquired where her lovely name comes from, she bit me. I still have the scars. They tingle or itch whenever the weather is about to change. Really handy if you want to know if it is going to rain when you leave the house.
 
 Of course, normally when someone says “girl” they mean a small female child. Gunk may be small and female, but she is by no means a child. The only reason I call her that is because she refuses to be called a woman. Apparently that would stop her from doing unwomanly things, like bite friendly neighbors when they are making polite conversation. Or stealing things from around town.
 
@@ -18,7 +18,7 @@ This particular morning, Gunk was wondering what she would do today. It was love
 
 Or she could go to the shops and stores in town and have fun there. Either toying with the customers and store clerks or messing with the goods they were trading.
 
-The weather was nice and as it was not about to change (none of my scars were itching). She could go out to the woods and pastures or as far as the big city to wreak havoc, I mean, have playful fun there.
+The weather was nice and as it was not about to change (none of my scars were itching). She could go out to the woods and pastures or as far as the big city to wreak havoc, I mean, to have playful fun there.
 
 This morning, for whatever reason, Gunk did not feel like going out. Instead, she decided she would like to stay at home and fashion herself something nice to wear. A cape, or a crown or some bracelets. Something to make a definitely-not-a-woman feel pretty.
 
@@ -36,12 +36,12 @@ Today she felt like making something to wear with one of her other sets of “cl
 
 Anyway… Gunk walked out of the lair from under her pile of rubble at the back of the garden against the shed and looked around. She knew what she wanted but not exactly where to get it from. What she wanted was…
 
-- Something wavy
-- Not too bright and not too brittle
-- A bit stretchy but not too much
-- Maybe a little fizzy or fuzzy but not fezzy. Fezzy was for little boys.
-- She thought she might need it to be slightly blue and mostly invisible.
-- Equal parts infuriating and frustrating, especially because today was a Wednesday
+-   Something wavy
+-   Not too bright and not too brittle
+-   A bit stretchy but not too much
+-   Maybe a little fizzy or fuzzy but not fezzy. Fezzy was for little boys.
+-   She thought she might need it to be slightly blue and mostly invisible.
+-   Equal parts infuriating and frustrating, especially because today was a Wednesday
 
 So she walked around, sniffed the air, kicked at some flowers and looked underneath the hedge before heading in the direction of my house. It took her a while to find what she wanted, but she did.
 
@@ -58,6 +58,8 @@ Now, I hadn’t been having the best day up to that point. The day had started n
 Then, sitting behind my writing desk, the computer wouldn’t go. I tried all the tricks I had seen the nice man in the blue van do when he installed it. I plugged it out and in again, flipped the “on” switch with my left hand (rather than my right), hit it a couple of times and swore at it with a Polish accent. I don’t know what finally did it, but the computer turned on. I’ll ask the nice man with the blue van when I see him.
 
 Next, sitting behind my computer, the internet wouldn’t go. Nothing loaded. All I got was slowly rotating blobs, “Please wait, loading…” messages and “Ooops, something has gone wrong” pages. It took me 45 minutes to look up what could be wrong and all I found was that using a network cable might work better than my current wifi.
+
+- - -
 
 At this point, there was a hiss from downstairs and a loud “bang” as the cat-flap smacked against the kitchen door. This was the usual way of me finding out that the cat had raced out because Gunk had come in. After the first time they met, the fur on the cat’s tail had grown back but never in its original color. I went downstairs to put some water on the stove to make Gunk and me some tea.
 
