@@ -1,0 +1,12 @@
+---
+---
+
+@charset "UTF-8";
+
+@import "{{ site.theme }}";
+
+@import url("https://cdn.clarkhacks.com/OpenDyslexic/v3/OpenDyslexic.css");
+
+.markdown-body {
+  font-family: opendyslexic;
+}
