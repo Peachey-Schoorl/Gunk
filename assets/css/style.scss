@@ -9,4 +9,11 @@
 
 .markdown-body {
   font-family: opendyslexic;
+
+  h1:nth-of-type() {
+    margin-bottom: -2em;
+    position: relative;
+    top: -2.3em;
+    z-index: -1;
+  }
 }
