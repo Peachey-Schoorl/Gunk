@@ -5,10 +5,7 @@
 
 @import "{{ site.theme }}";
 
-@import url("https://cdn.clarkhacks.com/OpenDyslexic/v3/OpenDyslexic.css");
-
 .markdown-body {
-  font-family: opendyslexic;
 
   h1:nth-of-type(2) {
     margin-bottom: -2em;
