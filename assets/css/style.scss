@@ -5,8 +5,11 @@
 
 @import "{{ site.theme }}";
 
-.markdown-body {
+.footer {
+    display: none;
+}
 
+.markdown-body {
   h1:nth-of-type(2) {
     margin-bottom: -2em;
     position: relative;
