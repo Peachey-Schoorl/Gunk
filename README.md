@@ -13,7 +13,7 @@ In a burrow at the bottom of the garden, underneath a pile of, rubbish lives Gun
 - [Gunk dances in the rain][5]
 
 [1]: ./decided-to-make-a-cape/
-[2]: ./gunk-went-to-the-store/
+[2]: ./went-to-the-store/
 [3]: ./had-some-coffee/
 [4]: ./loves-cookies/
 [5]: ./dances-in-the-rain/
