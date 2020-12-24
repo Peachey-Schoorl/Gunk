@@ -25,7 +25,7 @@ In a burrow at the bottom of the garden, underneath a pile of, rubbish lives Gun
 
 ## License
 
-[<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons Licence" align="left">][license-page]
+[<img width="88" height="31" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons Licence" align="left">][license-page]
 All stories in this repository are created by [Ben & Pimmie Peachey/Schoorl][medium-peachey-schoorl]
 and licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][license-page].
 
