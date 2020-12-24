@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     bodyClassList.remove(defaultFont)
 
     document.querySelectorAll('a[href]').forEach(link => {
-      if (link.href.includes('gunk') && ! link.href.includes(`font=${font}`)) {
+      if (link.href.toLowerCase().includes('gunk') && ! link.href.includes(`font=${font}`)) {
         link.href += `?font=${font}`
       }
     })
