@@ -70,7 +70,7 @@ This last remark was after I told Gunk about the Christmas Feast I usually host.
 
 So Gunk invited herself to dinner.
 
-To be fair, she _did_ offer to help with the cooking. Seeing how her help usually works out, I managed to talk her out of it. She haughtily declared she wouldn’t have been able to help anyway, as she would need at least two days to get _her_ home ugly enough for Christmas. 
+To be fair, she _did_ offer to help with the cooking. Seeing how her help usually works out, I managed to talk her out of it. She haughtily declared she wouldn’t have been able to help anyway, as she would need at least two days to get _her_ home ugly enough for Christmas.
 
 And with that, she picked up some baubles and walked out the kitchen door.
 

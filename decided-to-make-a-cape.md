@@ -64,8 +64,8 @@ Next, sitting behind my computer, the internet wouldn’t go. Nothing loaded. Al
 At this point, there was a hiss from downstairs and a loud “bang” as the cat-flap smacked against the kitchen door. This was the usual way of me finding out that the cat had raced out because Gunk had come in. After the first time they met, the fur on the cat’s tail had grown back but never in its original color. I went downstairs to put some water on the stove to make Gunk and me some tea.
 
 As I was rummaging for cups Gunk told me all about her new garment. She kept twirling it about her and looking at it proudly. When she was done telling her story, she sipped some tea. I told her that it looked stunning on mylady. I also asked her what the stuff was actually made of. “Ugh” she said, rolling her eyes, “you know…That invisible blue stuff that fizzy-fuzzes around your house.” Apparently the not-too-intelligent look on my face prompted her to elaborate further. She pointed at my electric kettle and said:  
-“The stuff that makes _that_ go. E-leg-tit-ricy”.   
-\-“Electricity?” I asked, raising an eyebrow.   
+“The stuff that makes _that_ go. E-leg-tit-ricy”.   
+\-“Electricity?” I asked, raising an eyebrow.   
 “Like I said” Gunk replied,”eel-lick-tricy. I never really managed to get it to stick together before. But today I added some of that other stuff you’ve got hanging around in here”
 
 \-“Air?” I ventured
