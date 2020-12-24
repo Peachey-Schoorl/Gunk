@@ -1,12 +1,20 @@
 ---
+sass:
+  style: compressed
 ---
 
 @charset "UTF-8";
 
+/*=======( Original Theme )===================================================*/
 @import "{{ site.theme }}";
 
+/*=======( Theme Overrides )==================================================*/
+h1, h2, h3 {
+  font-family: flood-std, sans-serif;
+}
+
 .footer {
-    display: none;
+  display: none;
 }
 
 .markdown-body {
@@ -16,4 +24,51 @@
     top: -2.3em;
     z-index: -1;
   }
+
+  font-size: 125%;
+}
+
+/*=======( Custom Elements )==================================================*/
+.unimportant {
+  color: #999;
+}
+
+.word-count {
+  float: right;
+  margin-right: 1em;
+}
+
+/*=======( Font Related )=====================================================*/
+/*-------( Fonts )------------------------------------------------------------*/
+.dyslexic,
+.dyslexic .markdown-body {
+  font-family: opendyslexic, sans-serif;
+}
+
+.lora,
+.lora .markdown-body {
+  font-family: lora, serif;
+}
+
+/*-------( Font Switcher )----------------------------------------------------*/
+.font-switcher {
+  :hover {
+    border-bottom: 1px solid;
+    color: inherit;
+  }
+
+  background: inherit;
+  border: none;
+}
+
+.font-switcher-form {
+  margin-top: 1em;
+  text-align: right;
+  width: 99%;
+}
+
+
+/*=======( Page Specific )====================================================*/
+.gunk .license {
+  display: none;
 }
