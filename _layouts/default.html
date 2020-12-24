@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="https://cdn.clarkhacks.com/OpenDyslexic/v3/OpenDyslexic.css">
+  <link rel="stylesheet" href="https://use.typekit.net/sqq3tch.css">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+</head>
+<body class="lora {{ page.title | slugify: ascii }}">
+
+<form class="font-switcher-form"><button type="submit" name="font" value="dyslexic" class="font-switcher dyslexic unimportant">Dyslexic friendly edition</button></form>
+
+{% if site.title and site.title != page.title %}
+  <p class="word-count">
+    {{ page.content | number_of_words | divided_by: 275 }}  to {{ page.content | size | divided_by: 1000 | plus: 1 }} minute read
+    <span class="unimportant">({{ page.content | number_of_words }} words)</span>
+  </p>
+{% endif %}
+
+<div class="container-lg px-3 my-5 markdown-body">
+  {% if site.title and site.title != page.title %}
+  <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+  {% endif %}
+
+  {{ content }}
+
+  <hr>
+
+  <p class="license">
+    <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+        src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons Licence" align="left"
+    ></a>
+    All stories in this repository are created by <a href="https://medium.com/peachey-schoorl">Ben &amp; Pimmie
+    Peachey/Schoorl</a>
+    and licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+    Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+  </p>
+
+
+  {% if site.github.private != true and site.github.license %}
+  <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    This site is open source. {% github_edit_link "Improve this page" %}.
+  </div>
+  {% endif %}
+</div>
+
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
+    integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"
+></script>
+
+<script src="{{ "/assets/js/font-switcher.js?v=" | append: site.github.build_revision | relative_url }}"></script>
+
+<script>
+  anchors.add()
+{% if site.google_analytics %}
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', '{{ site.google_analytics }}', 'auto');
+  ga('send', 'pageview');
+{% endif %}
+</script>
+</body>
+</html>
