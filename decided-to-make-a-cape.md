@@ -1,3 +1,9 @@
+---
+image: https://miro.medium.com/max/2540/1*j-OiT9-mlsxBu2fN_RatXw.png
+seo:
+  links: [https://medium.com/peachey-schoorl/gunk-decided-to-make-a-cape-5247591ccde2]
+---
+
 # Gunk decided to make a cape
 
 In a cute little garden, in a cute little town stood a cute little house with a cute little shed. In the corner of the garden, up against the shed stood a cute little pile of rubbish and in a burrow underneath lived a cute little girl.

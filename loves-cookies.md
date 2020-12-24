@@ -1,10 +1,16 @@
+---
+image: https://miro.medium.com/max/2540/1*IaEN91SLNgB6g2VR0BmAFQ.png
+seo:
+  links: [https://medium.com/peachey-schoorl/gunk-loves-cookies-2fd2068b7bee]
+---
+
 # Gunk loves cookies
 
 Today the weather was perfect for drinking tea in the garden. There is a reclining chair in the garden, just for occasions like this. So I walked out into the garden, set my cookie tin down next to the chair, and sat down. I drank some tea, and had a cookie from the tin and closed my eyes. Lying in the sun, my mind turned to Gunk.
 
 For those of you that do not know her, Gunk is not a normal person. For one thing, she is tiny, compared to us. She also doesn’t live in a house, she lives in a burrow at the bottom of the garden. Her teeth are razor sharp and she is rather fond of chocolate cookies.
 
-When I opened my eyes again, to have another cookie, I realized the tin was no longer there. I looked up and saw it moving slowly across the lawn, in the direction of Gunk’s burrow. 
+When I opened my eyes again, to have another cookie, I realized the tin was no longer there. I looked up and saw it moving slowly across the lawn, in the direction of Gunk’s burrow.
 
 I got up and walked over to the tin, which was already several inches further. I couldn’t see a string. I was sure it wasn’t Gunk herself pulling the tin (while being invisible) because then the tin would have moved a _lot_ faster. Curious as to how she was doing this, I headed in the direction of her burrow, to investigate.
 
@@ -24,7 +30,7 @@ Gunk was standing in front of her home, twiddling her thumbs, looking around wit
 
 I did remember. I thought it rather odd at the time that Gunk had managed to display such constraint. Usually, when cookies are involved, she barely pauses long enough to chew.
 
-“I took that cookie and scrunched it and scrunched it and scrunched it until it couldn’t be scrunched any more. And then I did! I _did_ scrunch it some more! It kind of scrunched in on itself and turned into that”. She pointed at the hazy patch of nothingness again. 
+“I took that cookie and scrunched it and scrunched it and scrunched it until it couldn’t be scrunched any more. And then I did! I _did_ scrunch it some more! It kind of scrunched in on itself and turned into that”. She pointed at the hazy patch of nothingness again.
 
 The tin of cookies was now gently bumping against the back of my shoes.
 

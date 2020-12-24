@@ -1,3 +1,9 @@
+---
+image: https://miro.medium.com/max/2540/1*XyKt9nFXMxNVYGANc-_F2g.png
+seo:
+  links: [https://medium.com/peachey-schoorl/gunk-went-to-the-store-b02078670e41]
+---
+
 # Gunk went to the store
 
 This afternoon, my cat-flap flapped. When I went downstairs to look, it wasn’t my cat. Gunk had come in.

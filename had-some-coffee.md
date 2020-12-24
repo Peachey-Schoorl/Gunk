@@ -1,3 +1,9 @@
+---
+image: https://miro.medium.com/max/2540/1*u00sH4pl0ztNIvl28wX9yg.png
+seo:
+  links: [https://medium.com/peachey-schoorl/gunk-had-some-coffee-5ea8ea62fc15]
+---
+
 # Gunk had some coffee
 
 The sun came up and the world awoke. People stumbled gently from their slumber. Sounds arose from the houses. Lights came on. Dressing gowns were donned. Kettles set to boil. Breakfasts made. Another wonderful day had begun. Or in the case of my neighbor, a slightly less wonderful day. He had run out of coffee.

@@ -1,3 +1,9 @@
+---
+image: https://miro.medium.com/max/2540/1*S9WmIaQuUH5fQDnTR15enA.png
+seo:
+  links: [https://medium.com/peachey-schoorl/gunk-dances-in-the-rain-d621bb5762e4]
+---
+
 # Gunk dances in the rain
 
 I was planning on taking a shower this morning. But first the phone rang, then there was a parcel at the door and next I had some things to write. After that, I was hungry and had lunch. Thus I ended up sitting around in my dressing gown all morning and I didn’t get to take my shower until it was afternoon.
@@ -10,7 +16,7 @@ a) Tell her beforehand, so she wouldn’t have to guess which game we’re playi
 
 b) At least make an effort to hide and maybe not sing, as that kind-of gives the whole game away.
 
-Before she got to “c”, however, she went quiet and looked at the shower with wide eyes. 
+Before she got to “c”, however, she went quiet and looked at the shower with wide eyes. 
 
 “Whoa!” Gunk exclaimed, “You’ve got indoor _rain_!”. She cocked her head to one side and said, more to herself than to me, “You know, if you wanted it to rain, you could’ve just asked…” But her contemplation was soon replaced by her normal aggrieved tone as she corrected me by stating, “Anyway, that’s not how you get the rain to stick to you, silly! Move over, I’ll show you!”. As I stepped out of the shower to make room for her, she did mention that she approved of dancing in the rain _naked_, especially when singing. Although she didn’t think me very smart, as there _clearly_ wasn’t enough room in the shower to perform any sort of sensible dance.
 
@@ -32,7 +38,7 @@ Having been a clear-sky bright-blue at first, the color surrounding Gunk shifted
 
 - - -
 
- Apparently, Gunk had made it rain. I have to admit, she knew what she was doing. It rained so much that, by the end of the second day, I was afraid her home might be flooded. Standing at the bottom of the garden, holding my umbrella, I understood there was no need to worry. The pile of rubbish, which hides the entrance to her underground habitat, was apparently also water-proof (in the same way Gunk had been). Or maybe the rain was just afraid to enter Gunk’s lair uninvited. I know I would be… I shrugged my shoulders and went back inside.
+Apparently, Gunk had made it rain. I have to admit, she knew what she was doing. It rained so much that, by the end of the second day, I was afraid her home might be flooded. Standing at the bottom of the garden, holding my umbrella, I understood there was no need to worry. The pile of rubbish, which hides the entrance to her underground habitat, was apparently also water-proof (in the same way Gunk had been). Or maybe the rain was just afraid to enter Gunk’s lair uninvited. I know I would be… I shrugged my shoulders and went back inside.
 
 It didn’t stop raining for another three days.
 
