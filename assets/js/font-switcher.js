@@ -26,7 +26,7 @@
     }
   }
 
-  if (document.readyState === "complete" || document.readyState === "loaded") {
+  if (document.readyState === "complete" || document.readyState === "interactive" || document.readyState === "loaded") {
     onloadHandler()
   } else {
     window.addEventListener("DOMContentLoaded", onloadHandler);
