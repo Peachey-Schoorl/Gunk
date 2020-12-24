@@ -83,3 +83,24 @@ h1, h2, h3 {
     display: none;
   }
 }
+
+.that-your-days-may-grow-brighter-and-the-sun-shine-longer {
+  strong {
+    display: block;
+    text-align: center;
+    margin: 1em;
+  }
+
+  .markdown-body {
+    font-family: opendyslexic, sans-serif;
+  }
+
+  .metrics,
+  .font-switcher,
+  .word-count,
+  .license {
+    display: none;
+  }
+
+  font-family: opendyslexic, sans-serif;
+}
