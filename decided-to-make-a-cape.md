@@ -1,5 +1,5 @@
 ---
-image: https://miro.medium.com/max/2540/1*j-OiT9-mlsxBu2fN_RatXw.png
+image: https://miro.medium.com/1*j-OiT9-mlsxBu2fN_RatXw.png
 seo:
   links: [https://medium.com/peachey-schoorl/gunk-decided-to-make-a-cape-5247591ccde2]
 ---

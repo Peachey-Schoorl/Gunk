@@ -1,5 +1,5 @@
 ---
-image: https://miro.medium.com/max/2540/1*S9WmIaQuUH5fQDnTR15enA.png
+image: https://miro.medium.com/1*S9WmIaQuUH5fQDnTR15enA.png
 seo:
   links: [https://medium.com/peachey-schoorl/gunk-dances-in-the-rain-d621bb5762e4]
 ---

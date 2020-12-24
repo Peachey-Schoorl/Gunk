@@ -1,5 +1,5 @@
 ---
-image: https://miro.medium.com/max/2540/1*XyKt9nFXMxNVYGANc-_F2g.png
+image: https://miro.medium.com/1*XyKt9nFXMxNVYGANc-_F2g.png
 seo:
   links: [https://medium.com/peachey-schoorl/gunk-went-to-the-store-b02078670e41]
 ---

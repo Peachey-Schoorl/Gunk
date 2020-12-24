@@ -1,5 +1,5 @@
 ---
-image: https://miro.medium.com/max/2540/1*IaEN91SLNgB6g2VR0BmAFQ.png
+image: https://miro.medium.com/1*IaEN91SLNgB6g2VR0BmAFQ.png
 seo:
   links: [https://medium.com/peachey-schoorl/gunk-loves-cookies-2fd2068b7bee]
 ---
