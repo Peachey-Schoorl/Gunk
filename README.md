@@ -1,10 +1,8 @@
 ---
 image: https://cdn.cp.adobe.io/content/2/dcx/f59eb01a-b059-49d1-a6c7-d3672c849c0b/rendition/preview.jpg/version/0/format/jpg/dimension/width/size/2000
 permalink: /
-seo:
-  type: WebPage
-  links: [https://github.com/peachey-schoorl/gunk/]
 ---
+
 # Gunk
 
 In a burrow at the bottom of the garden, underneath a pile of, rubbish lives Gunk. These are stories about her.
