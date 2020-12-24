@@ -1,0 +1,29 @@
+---
+author: Ben & Pimmie Peachey/Schoorl
+baseurl: /gunk
+description: In a burrow at the bottom of the garden, underneath a pile of, rubbish lives Gunk. These are stories about her.
+# @TODO: google_analytics: [Your Google Analytics tracking ID]
+license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+logo: https://cdn.cp.adobe.io/content/2/dcx/f59eb01a-b059-49d1-a6c7-d3672c849c0b/rendition/preview.jpg/version/0/format/jpg/dimension/width/size/2000
+permalink: pretty
+repository: Peachey-Schoorl/Gunk
+theme: jekyll-theme-primer
+title: Gunk
+url: https://peachey-schoorl.com
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+exclude:
+  - blurbs/
+  - checklist.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+
+plugins:
+  - jekyll-remote-theme
