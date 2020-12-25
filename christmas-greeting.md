@@ -16,7 +16,9 @@ Actually, Gunk _knows_ they will, she just though you might have forgotten and c
 
 Speaking of which, did we ever tell about that time Gunk came into the house for Christmas? No!?
 
-Well... As a Christmas treat, here it is:
+Well... As a Christmas treat, here it is: [_Gunk comes in for Christmas_](https://medium.com/peachey-schoorl/gunk-comes-in-for-christmas-b555c4a929fe)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mgCwGAeyF4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 From all of us: **stay safe and have a healthy and  happy holidays!**
 
