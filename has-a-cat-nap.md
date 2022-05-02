@@ -1,4 +1,4 @@
-# Gunk made the cat nap
+# Gunk has a cat nap
 
 The first moment I suspected something might be wrong was when my cat didn't come to greet me as I was putting food in his bowl. Usually he's already there, rubbing against my legs, waiting to be fed. With his bowl in hand, I went outside to look for him.
 
