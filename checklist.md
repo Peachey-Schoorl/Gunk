@@ -1,9 +1,6 @@
 # Publishing Checklist
 
-After a Gunk story on [Medium](https://medium.com/peachey-schoorl),
-before it is send to the editor (before publishing) all items below
-should be checked.
-
+After a second draft of Gunk story is placed on [Medium](https://medium.com/peachey-schoorl), before publishing, all items below should be checked.
 
 ## The header
 
