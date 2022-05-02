@@ -12,7 +12,7 @@ This spring, after four or five days, her game changed. Instead of picking up, t
 
 I had a lot of work to do that day, so I only saw her when I was standing in the kitchen, waiting for the kettle to boil. Each time, Gunk made more elaborate forms than the time before.
 
-It started with a crown. Then a cape to match. Next the cape became so long and wide, she had trouble making turns as she trotted about. The last thing I saw her make was almost as large as a cat, and roughly the same shape.
+It started with a ball. Then a cape she could actually wear. Next the cape became so long and wide, she had trouble making turns as she trotted about. The last thing I saw her make was almost as large as a cat, and roughly the same shape.
 
 I didn’t get to see what else she made, as I had to go to town, but I was sure she’d tell me all about it when she’d finally come into the house for tea again.
 
