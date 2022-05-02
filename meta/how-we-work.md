@@ -18,7 +18,7 @@ permalink: /meta/workflow
 
 1. Pimmie records a video, reading the story aloud
 1. The video is uploaded to YouTube
-1. Images, the video, and other things are added to the story on Medium
+1. Images, the video, and other things are added to the story on Medium (see [the publishing checklist][4])
 1. The story  is published on medium and added to the homepage of the Gunk website 
 
 ## Promoting
@@ -28,3 +28,4 @@ Currently, new stories are not actively promoted.
 [1]: https://trello.com/b/Vc9xba4L/gunk
 [2]: https://github.com/Peachey-Schoorl/Gunk/
 [3]: https://peachey-schoorl.com/Gunk/
+[4]: ./checklist.md
