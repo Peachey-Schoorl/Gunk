@@ -16,12 +16,14 @@ In a burrow at the bottom of the garden, underneath a pile of, rubbish lives Gun
 - [Gunk had some coffee][3]
 - [Gunk loves cookies][4]
 - [Gunk dances in the rain][5]
+- [Gunk comes in for Christmas][6]
 
 [1]: ./decided-to-make-a-cape/
 [2]: ./went-to-the-store/
 [3]: ./had-some-coffee/
 [4]: ./loves-cookies/
 [5]: ./dances-in-the-rain/
+[6]: ./comes-in-for-christmas/
 
 ## License
 
