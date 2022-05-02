@@ -1,3 +1,7 @@
+---
+permalink: /meta/checklist-publishing
+---
+
 # Publishing Checklist
 
 After a second draft of Gunk story is placed on [Medium](https://medium.com/peachey-schoorl), before publishing, all items below should be checked.
