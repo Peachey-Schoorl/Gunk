@@ -26,7 +26,7 @@ Whatever it was, I quickly walked over to them and, after greeting the constable
 
 “I don’t right know”, the constable replied, with a inquisitive look. “When I turned the corner, I swore I saw him”, with a nod to the mailman, “being dragged of by a fellow pulling on his mail bag. But when I got here, the fellow’d disappeared.”
 
-Looked around, the constable lifted his cap to wipe his forehead with his arm. “He must’ave run pretty fast to get away like that” he mumbled to himself.
+Looking around, the constable lifted his cap to wipe his forehead with his arm. “He must’ave run pretty fast to get away like that” he mumbled to himself.
 
 As we helped the mailman up from the ground, the constable asked him “Did you manage to get a good look at him?”
 
@@ -44,7 +44,7 @@ Whilst I was picking the last of the yellow flowers of the mailman, the police c
 
 After giving some more instructions into his radio, the constable turned to us. The mailman still looked rather startled.
 
-“He should be easy enough to spot, running around in that color! Well now, “ the constable continued, “Lets see if any thing’s gone missing, shall we?”
+“He should be easy enough to spot, running around in that color! Well now,“ the constable continued, “Lets see if any thing’s gone missing, shall we?”
 
 As the constable righted the mailman’s bag, the mailman’s look had gone from perplexed to merely befuddled. I left them both to it and I headed home.
 
