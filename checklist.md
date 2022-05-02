@@ -7,8 +7,8 @@ should be checked.
 
 ## The header
 
-1. Has an "Add video" link to YouTube
-   2. [ ] With the caption `"Gunk [name of story]" read by Pimmie on YouTube`
+1. [ ] Has an "Add video" link to YouTube
+  2. [ ] With the caption `"Gunk [name of story]" read by Pimmie on YouTube`
 3. [ ] Has a wide title image
   4. [ ] With an alt text
   5. [ ] With "Out-set" width
