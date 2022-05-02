@@ -82,7 +82,7 @@ On closer inspection, the piece of paper did indeed seem to be a postcard, albei
 
 “But it doesn’t have an address on it,” I carefully continued, “how would the mailman know where to post it?”
 
-Gunk crossed her arms and looked up at my angrily. “_I_ knew I was getting a postcard! I’ve been waiting for this for_ever_. Its not _my_ fault that stupid man doesn’t know how to give it to me!”
+Gunk crossed her arms and looked up at my angrily. “_I_ knew I was getting a postcard! I’ve been waiting for this for _ever_. Its not _my_ fault that stupid man doesn’t know how to give it to me!”
 
 She was stamping her right foot, as if emphasizing her words. With each stomp her hair stood more on edge and she looked more and more feral.
 
