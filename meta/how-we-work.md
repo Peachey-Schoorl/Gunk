@@ -1,3 +1,7 @@
+---
+permalink: /meta/workflow
+---
+
 # How we work
 
 ## Writing
