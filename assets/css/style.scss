@@ -84,7 +84,7 @@ h1, h2, h3 {
   }
 }
 
-.that-your-days-may-grow-brighter-and-the-sun-shine-longer {
+.gunk-comes-in-for-christmas {
   strong {
     display: block;
     text-align: center;
@@ -92,15 +92,21 @@ h1, h2, h3 {
   }
 
   .markdown-body {
-    font-family: opendyslexic, sans-serif;
+    blockquote {
+      font-size: 3em;
+      font-family: 'flood-std';
+      padding: 0;
+      border: none;
+      line-height: 1em;
+      text-align: center;
+      color: #060;
+      text-shadow: 0em 0em 0.1em #0c0, 0 0.2em 0.2em #090, 0 0.3em 1em #060;
+    }
   }
 
   .metrics,
-  .font-switcher,
   .word-count,
   .license {
     display: none;
   }
-
-  font-family: opendyslexic, sans-serif;
 }
