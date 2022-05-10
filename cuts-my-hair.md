@@ -2,7 +2,7 @@
 
 This morning, I woke up bald. Not “bold”, as in brave and eager to face the day. Rearing and roaring. But “bald”, as in, without hair.
 
-I didn’t notice at first. Not until I reached the bathroom, that holds the only mirror in the house. For a moment I thought I had an uninvited guest. I did not have much hair on my head to begin with as, except for one long lock of hair in the front, the hairdresser had sheered most of my skull to a close-cropped coupe only a day before. But even those mere millimeters were enough to surprise me. Especially with my eyebrows missing.
+I didn’t notice at first. Not until I reached the bathroom, that holds the only mirror in the house. For a moment I thought I had an uninvited guest. I did not have much hair on my head to begin with. Only a day before, the hairdresser had sheered most of my skull to a close-cropped coupe. All except for one long lock at the front. But even those mere millimeters were enough to surprise me. Especially with my eyebrows missing.
 
 That made the strange face in the mirror look even more surprised than I already felt.
 
@@ -16,7 +16,7 @@ Seeing my cat made me realize it was _not_ a dream. The same thing which had bef
 
 Now, it’s not that I think of Gunk as soon as anything breaks or vanishes or goes wrong. The plumbing might break, or the WIFI not work, or the stove accidentally catch on fire, or all of my chocolate cookies unexpectedly run out, _entirely_ without her being involved. However, appearing at this _very_ moment, her involvement did seem more likely.
 
-Her appearance reminded me of the last time we had spoken, the day before, when I got back with my new haircut. To Gunk, the entire concept of having your hair _cut_ was alien. Especially using scissors. Apparently, if _she_ wanted a different length of hair, a different style, or even a different color, she only needed to concentrate real hard to make it happen. She thought I had lost my ability to do the same. She just couldn’t understand how we humans get on without being able to change our appearance at will
+Her appearance reminded me of the last time we had spoken, the day before, when I got back with my new haircut. To Gunk, the entire concept of having your hair _cut_ was alien. Especially using scissors. Apparently, _she_ only needed to concentrate real hard to get a different length of hair, a different style, or even a different color. She thought I had lost my ability to do the same. She just couldn’t understand how we humans get on without being able to change our appearance at will
 
 I had tried to explain to her that I had asked them to cut my hair because I wanted a different hairstyle, but she didn’t seem to be impressed by their work. I thought my new coupe made me look dashing but Gunk just shook her head and puffed her cheeks.
 
