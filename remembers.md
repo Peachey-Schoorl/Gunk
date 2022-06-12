@@ -1,4 +1,4 @@
-# Gunk remembers the dead
+# Gunk remembers
 
 For a long while, Gunk had not been around. She was out having adventures. When she showed up again, she was more than happy to trade chocolate cookies for tales of where she had been.
 
