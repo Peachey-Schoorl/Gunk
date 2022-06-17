@@ -17,6 +17,9 @@ In a burrow at the bottom of the garden, underneath a pile of, rubbish lives Gun
 - [Gunk loves cookies][4]
 - [Gunk dances in the rain][5]
 - [Gunk comes in for Christmas][6]
+- [Gunk among the flowers][7]
+- [Gunk cuts my hair][8]
+- [Gunk remembers][9]
 
 [1]: ./decided-to-make-a-cape/
 [2]: ./went-to-the-store/
@@ -24,6 +27,9 @@ In a burrow at the bottom of the garden, underneath a pile of, rubbish lives Gun
 [4]: ./loves-cookies/
 [5]: ./dances-in-the-rain/
 [6]: ./comes-in-for-christmas/
+[7]: ./among-the-flowers/
+[8]: ./cuts-my-hair/
+[9]: ./remembers/
 
 ## License
 
