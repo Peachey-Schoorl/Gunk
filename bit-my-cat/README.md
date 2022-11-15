@@ -17,5 +17,5 @@ and their children! So of course I bit him!"
 know when to fly away from him. And you won't have to bite the cat and I won't 
 have to take him to the vet and instead I can go buy chocolate cookies."
 
-"Humpf..." Gunk pouted. "That does sound like a plan"
+"Humpf..." Gunk pouted. "That does sound like a plan. Chocolate cookies _do_ taste better than cat."
 ```
