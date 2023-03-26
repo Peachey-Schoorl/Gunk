@@ -10,6 +10,7 @@ repository: Peachey-Schoorl/Gunk
 theme: jekyll-theme-primer
 title: Gunk
 url: https://peachey-schoorl.com
+google_analytics: G-97SWK98E7L
 
 defaults:
   -
