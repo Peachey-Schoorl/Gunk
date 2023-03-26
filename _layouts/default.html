@@ -38,7 +38,7 @@
       type="text/html"
       width="720"
     >
-    {% for item in parts limit:1 %}
+    {% for item in parts offset:1 %}
       {{ item }}
     {% endfor %}
   {% else %}
