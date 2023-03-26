@@ -2,7 +2,8 @@
 image: https://miro.medium.com/1*j-OiT9-mlsxBu2fN_RatXw.png
 youtube: vagkroAeb4I
 seo:
-  links: [https://medium.com/peachey-schoorl/gunk-decided-to-make-a-cape-5247591ccde2]
+  links: 
+    - https://medium.com/peachey-schoorl/gunk-decided-to-make-a-cape-5247591ccde2
 ---
 
 # Gunk decided to make a cape
