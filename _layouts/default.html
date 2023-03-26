@@ -24,7 +24,26 @@
 {% endif %}
 
 <div class="container-lg px-3 my-5 markdown-body">
-  {{ content }}
+  {% if page.youtube %}
+    {% assign parts = content | split: '</h1>' %}
+    {{ parts[0] }}</h1>
+    <iframe 
+      allow="clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowfullscreen
+      frameborder="0"
+      height="405"
+      id="ytplayer"
+      src="https://www.youtube.com/embed/{{ page.youtube }}?modestbranding=1"
+      title="YouTube video player"
+      type="text/html"
+      width="720"
+    >
+    {% for item in parts limit:1 %}
+      {{ item }}
+    {% endfor %}
+  {% else %}
+    {{ content }}
+  {% endif %}
   <hr>
   <p class="license">
     <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
@@ -59,21 +78,16 @@
   document.addEventListener('load', () => {
     anchors.add()
   })
-  {% if site.google_analytics %}
-  (function (i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r;
-    i[r] = i[r] || function () {
-      (i[r].q = i[r].q || []).push(arguments)
-    }, i[r].l = 1 * new Date();
-    a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0];
-    a.async = 1;
-    a.src = g;
-    m.parentNode.insertBefore(a, m)
-  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-  ga('create', '{{ site.google_analytics }}', 'auto');
-  ga('send', 'pageview');
-  {% endif %}
 </script>
+{% if site.google_analytics %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google_analytics }}');
+</script>
+{% endif %}
 </body>
 </html>
