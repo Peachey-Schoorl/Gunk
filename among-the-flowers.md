@@ -1,3 +1,7 @@
+---
+youtube: UK_8dna1tAk
+---
+
 # Gunk among the flowers
 
 Every year in the spring, when all the world is a-bloom, the garden becomes a riot of colors. For instance, the large tree at the bottom of the garden has bronze-brown leaves and a dark-green, mossy trunk. It is covered in a blossom of tiny, bright yellow flowers. They fall from the tree in their thousands and cover the ground in a lush tapestry of yellow gold.
