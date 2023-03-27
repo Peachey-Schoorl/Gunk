@@ -1,3 +1,7 @@
+---
+youtube: V-xehdK-NCQ
+---
+
 # Gunk cuts my hair
 
 This morning, I woke up bald. Not “bold”, as in brave and eager to face the day. Rearing and roaring. But “bald”, as in, without hair.
