@@ -1,7 +1,6 @@
 ---
 image: https://miro.medium.com/1*u00sH4pl0ztNIvl28wX9yg.png
-seo:
-  links: [https://medium.com/peachey-schoorl/gunk-had-some-coffee-5ea8ea62fc15]
+youtube: 01OHuuwf7So
 ---
 
 # Gunk had some coffee
