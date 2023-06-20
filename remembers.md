@@ -12,7 +12,7 @@ She jumped up on the table and looked at me with some concern.
 
 "Why are you crying?" she asked. I told her I had just received the news that a dear friend of mine had died.
 
-"But why are you crying?" she asked again. "You don't cry when _other_things die. Like this cookie." she said, as she shoved a whole cookie into her mouth. "Or when that hedgehog was run over by the nice man's blue van." she continued, sounding muffled, with her mouth full.
+"But why are you crying?" she asked again. "You don't cry when _other_ things die. Like this cookie." she said, as she shoved a whole cookie into her mouth. "Or when that hedgehog was run over by the nice man's blue van." she continued, sounding muffled, with her mouth full.
 
 I tried to explain it to her.
 
