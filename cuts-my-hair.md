@@ -20,7 +20,7 @@ Seeing my cat made me realize it was _not_ a dream. The same thing which had bef
 
 Now, it’s not that I think of Gunk as soon as anything breaks or vanishes or goes wrong. The plumbing might break, or the WIFI not work, or the stove accidentally catch on fire, or all of my chocolate cookies unexpectedly run out, _entirely_ without her being involved. However, appearing at this _very_ moment, her involvement did seem more likely.
 
-Her appearance reminded me of the last time we had spoken, the day before, when I got back with my new haircut. To Gunk, the entire concept of having your hair _cut_ was alien. Especially using scissors. Apparently, _she_ only needed to concentrate real hard to get a different length of hair, a different style, or even a different color. She thought I had lost my ability to do the same. She just couldn’t understand how we humans get on without being able to change our appearance at will
+Her appearance reminded me of the last time we had spoken, the day before, when I got back with my new haircut. To Gunk, the entire concept of having your hair _cut_ was alien. Especially using scissors. Apparently, _she_ only needed to concentrate real hard to get a different length of hair, a different style, or even a different color. She thought I had lost my ability to do the same. She just couldn’t understand how we humans get on without being able to change our appearance at will.
 
 I had tried to explain to her that I had asked them to cut my hair because I wanted a different hairstyle, but she didn’t seem to be impressed by their work. I thought my new coupe made me look dashing but Gunk just shook her head and puffed her cheeks.
 
