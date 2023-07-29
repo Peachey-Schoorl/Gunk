@@ -7,9 +7,10 @@ title: 404 - Page Not Found
 
 {% assign entries = site.pages | concat: site.posts | sort: 'url' %}
 
-<h1>Gunk is not the page you are looking for</h1>
+<h1>Gunk was here</h1>
+<h2>But it looks like she's gone now</h2>
 
-<p>Please visit one of the following pages:</p>
+<p>Please visit one of the following pages instead:</p>
 
 <ul>
   {% for entry in entries %}
@@ -19,6 +20,8 @@ title: 404 - Page Not Found
         or entry.url == '/robots.txt'
         or entry.url == '/sitemap.xml'
         or entry.url contains '/assets/'
+        or entry.url contains '/meta/'
+        or entry.url contains '/drafts/'
     %}
       <li>
         <a href="{{ entry.url | prepend: site.baseurl }}">
