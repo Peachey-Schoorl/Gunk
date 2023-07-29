@@ -34,11 +34,6 @@ h1, h2, h3 {
   color: #666;
 }
 
-.word-count {
-  float: right;
-  margin-right: 1em;
-}
-
 iframe#ytplayer {
     border-radius: 1em;
     box-shadow: 0em 0em 1em gray;
@@ -46,6 +41,86 @@ iframe#ytplayer {
     margin: 0 auto 1em auto;
     max-height: 56.25vw;
     max-width: 100vw;
+}
+
+/*=======( Metrics )======================================================*/
+/*-------( Metrics )------------------------------------------------------*/
+
+.metrics {
+  /*border-bottom-left-radius: 10px;*/
+  /*border-bottom-right-radius: 10px;*/
+  /*float: right;*/
+  /*margin-right: 1em;*/
+  /*position: relative;*/
+  /*z-index: 1;*/
+  align-items: flex-end;
+  cursor: help;
+  display: flex;
+  flex-direction: column;
+  height: 2em;
+  overflow: hidden;
+}
+
+.metrics--active,
+.metrics:hover {
+  overflow: visible;
+}
+
+/*-------( Tag )----------------------------------------------------------*/
+.tag {
+  border-radius: 10px;
+  border: 1px solid;
+  color: #666;
+  display: block;
+  font-family: sans-serif;
+  height: 1.85em;
+  line-height: 1.85em;
+  margin: 0.35em;
+  padding: 0 0.45em 0 0;
+  width: fit-content;
+}
+
+.tag::before {
+  background: #666;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  border: none;
+  color: #fff;
+  display: inline-block;
+  height: calc(1.85em - 2px);
+  margin-right: 0.35em;
+  padding: 0 0.45em;
+}
+
+/*-------( Tag - Read Time )----------------------------------------------*/
+.tag--read-time::before {
+  content: "reading time ";
+}
+
+/*-------( Tag - Size )----------------------------------------------------*/
+.tag--size {
+  color: #fff;
+}
+
+.tag--size::before {
+  content: "size ";
+}
+
+.tag--size-short {
+  background: #0f0;
+}
+
+.tag--size-medium {
+  background: #3c3;
+}
+
+.tag--size-long {
+  background: #080;
+}
+
+/*-------( Tag - Word Count )---------------------------------------------*/
+.tag--word-count::before {
+  content: "length ";
 }
 
 /*=======( Font Related )=====================================================*/

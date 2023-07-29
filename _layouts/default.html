@@ -17,9 +17,18 @@
 </form>
 
 {% if site.title and site.title != page.title %}
-<p class="word-count">
-  {{ page.content | number_of_words | divided_by: 275 }} to {{ page.content | size | divided_by: 1000 | plus: 1 }} minute read
-  <span class="unimportant">({{ page.content | number_of_words }} words)</span>
+<p class="metrics">
+  {% assign word_count = page.content | number_of_words %}
+  {% if word_count > 1500 %}
+    {% assign story_size = "long" %}
+  {% elsif word_count > 1000 %}
+    {% assign story_size = "medium" %}
+  {% else %}
+    {% assign story_size = "short" %}
+  {% endif %}
+  <span class="tag tag--size tag--size-{{ story_size }}">{{ story_size }}</span>
+  <span class="tag tag--read-time">{{ page.content | number_of_words | divided_by: 275 }} to {{ page.content | size | divided_by: 1000 | plus: 1 }} minutes</span>
+  <span class="tag tag--word-count">{{ page.content | number_of_words }} words</span>
 </p>
 {% endif %}
 
